@@ -12,16 +12,6 @@ For my program, I took inspiration from the drawing assignment, and created a gu
 CODING QUALITY AND VISUAL DESIGN
 
 I believe that my code is unique and stylistically my own. I think that it is well spaced and commented accordingly to the functionality of each string. I am most proud of my code for the functionality of the colour wheel, as I used knowledge from the lectures and labs on image processing and expanded on it to create something purposeful and interactive. As for visual design, I believe that my design is clean and simplistic, while also being stylistically unique. In regards to interactivity related to visual design, each button that I included, possesed a visual indicator in which notifies the user when it is highlighted, selected, or clicked. 
-
-
-VIDEO
-https://youtu.be/L48CWLNZvL0
-
-
-RELEASE
-I <Caleb Lynds-Martin> grant permission to CS 105 course staff to use
-my Final Project program and video for the purpose of promoting CS 105.
-<if you don't grant permission, erase the line above>
 */
 
 let colourwheel;
