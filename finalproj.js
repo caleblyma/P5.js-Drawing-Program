@@ -1,13 +1,11 @@
 // README
 /*
 Colouring Catalogue
-Caleb Lynds-Martin
-crlyndsm
+By Caleb Lynds-Martin
 
 INSTRUCTIONS
 
 For my program, I took inspiration from the drawing assignment, and created a guided colouring program. When the program is first run, the user is faced with the home page where they are able to select any of the four provided animal outlines to colour (Deer, Fox, Whale, Owl) or the "i" button. If the user clicks the "i" button, they will be brought to the information page, where breif instructions and tips can be found. To return to the homepage, the user can click the "x" button. Once the user clicks an outline, they will be brought to the colouring page, equipped with a toolbar and the outline of their selected animal in the center of the page. To pick a colour, the user can click and drag their mouse on the colour wheel. Once a colour has been chosen, it will appear on the cirle left of the colour wheel. To colour, the user can click and drag on the colouring spot of their choice. If the user wishes to erase any drawn colour, they can select the eraser by clicking it once, and then clicking and dragging on the spot they want to erase. To deselect the eraser and select another colour, the user can click and drag on the colour wheel once again. If the user wants to start fresh, they can erase all of their previously drawn colour by one click of the "clear" button. If the user wishes to save their finished colouring, they can click on the "save" button, which downloads a PNG image of their work. If the user needs a smaller or bigger brush or eraser radius, they can ajust it by clicking either the up (increase) or down (decrease) arrow, displaying the current radius visually and numerically when altered. Lastly, to return to the home page from the colouring page, the user can click the grid button left of the colouring wheel.
-
 
 CODING QUALITY AND VISUAL DESIGN
 
